@@ -1,7 +1,11 @@
-
+<img src="letseat.png"/>
 
 ## Short description
-This is a NEXT js project developed by 6 team members from Gadjah Mada University.
+This is a Web Development project developed by 6 team members from Gadjah Mada University.
+- 2 Back-end (including myself)
+- 2 Front-end
+- 1 UI/UX
+- 1 Project manager.
 
 ## Purpose
 The purpose of my web development project at Gadjah Mada University extends beyond showcasing skills for a university subject test. It serves as a platform to demonstrate proficiency in web development while simultaneously fostering collaborative skills in a professional context. This initiative underscores the importance of creating project reports, emphasizing a holistic approach to project management within the university setting.
